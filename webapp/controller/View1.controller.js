@@ -9,6 +9,7 @@ sap.ui.define([
 
 		return Controller.extend("hellobas.controller.View1", {
 			onInit: function () {
+                //new line
 
 			}
 		});
